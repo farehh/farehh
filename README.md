@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Fareh </h1>
+<h1 align="center">Hi 👋, I'm Fareh </h1>
 <h3 align="center">I'm an Undergraduate Computer Science Student currently in Second year of my degree.</h3>
 
 - 🌱 I’m currently learning **Smart Contracts development.**
