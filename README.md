@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Smart Contracts development.**
 
-- 📫 How to reach me **fareh.iqbal55@hmail.com**
+- 📫 How to reach me **fareh.iqbal55@gmail.com**
 
 - ⚡ Fun fact **I push myself to learn something everyday and have a productive day .**
 
