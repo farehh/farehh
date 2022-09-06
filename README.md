@@ -15,7 +15,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/5ffe5bee629c3505f14fb1fd/604aa487faeeda20e43980d2_java_logo.png" alt="java" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farehiqbal&show_icons=true&locale=en&layout=compact" alt="farehiqbal" />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://uploads-ssl.webflow.com/5ffe5bee629c3505f14fb1fd/604aa487faeeda20e43980d2_java_logo.png" alt="java" width="40" height="40"/> </a>
+  
 </p>
