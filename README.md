@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fareh</h1>
-<h3 align="center">I'm an Undergraduate Computer Science Student currently in Second year of my degree.</h3>
+<h3 align="center">I'm an aspiring computer scientist in my second year of undergrad studies.</h3>
 <p align="center">
   <a href="https://twitter.com/farehhhhhhh" target="_blank">
     <img src="https://img.shields.io/twitter/follow/farehhhhhhh?style=social" alt="Twitter Follow">
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fareh.iqbal55@gmail.com">
   </a>
 </p>
-<p align="center">I'm currently learning <strong>Data Structures and Algorithms</strong>, and always striving to learn something new every day!</p>
+<p align="center">I'm currently learning <strong>Web 3 Development.</strong>, and always striving to learn something new every day!</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
