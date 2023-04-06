@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fareh</h1>
 <h3 align="center">I'm an aspiring computer scientist in my second year of undergrad studies.</h3>
 <p align="center">
-  <a href="https://twitter.com/farehhhhhhh" target="_blank">
+  <a href="https://twitter.com/farehiqbal" target="_blank">
     <img src="https://img.shields.io/twitter/follow/farehhhhhhh?style=social" alt="Twitter Follow">
   </a>
   <a href="https://www.linkedin.com/in/fareh-iqbal-781906232/" target="_blank">
