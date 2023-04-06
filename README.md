@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/-Email%20Me-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fareh.iqbal55@gmail.com">
   </a>
 </p>
-<p align="center">I'm currently learning <strong>Web 3 Development.</strong>, and always striving to learn something new every day!</p>
+<p align="center">I'm currently learning <strong>Web 3 Development</strong>, and always striving to learn something new every day!</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
