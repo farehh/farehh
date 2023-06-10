@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<p align="center">I'm currently learning <strong>Web 3 Development</strong>, and always striving to learn something new every day!</p>
+<p align="center"> Always striving to learn something new every day!</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
