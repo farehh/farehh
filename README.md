@@ -34,5 +34,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=farehiqbal&show_icons=true&theme=tokyonight" alt="GitHub stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farehiqbal&langs_count=3&theme=tokyonight" alt="Top languages used">
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=farehiqbal&show_icons=true&theme=tokyonight" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farehiqbal&langs_count=4&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,farehiqbal.github.io" alt="Top languages used">
+</p>
+
 </p>
 <p align="center">Thanks for visiting! 😄</p>
