@@ -23,6 +23,12 @@
   <a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" alt="C++">
   </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=Solidity&logoColor=white" alt="Solidity">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" alt="JavaScript">
+  </a>
 </p>
 <p align="left">Here are some of my GitHub stats:</p>
 <p align="center">
