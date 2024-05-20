@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fareh</h1>
 
-<h3 align="center">I'm an aspiring computer scientist in my second year of undergrad studies.</h3>
+<h3 align="center">I'm an aspiring computer scientist in my third year of undergrad studies.</h3>
 
 <p align="center">
   <a href="https://twitter.com/farehiqbal" target="_blank">
