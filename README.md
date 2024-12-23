@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time;Turning+coffee+into+code+since+2020;Debugging+the+world's+problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C3E50&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time;Turning+chai+into+code+since+2021" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
